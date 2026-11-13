@@ -2,7 +2,7 @@
 
 # Hi, I'm Dang Minh Tam 👋
 
-**Software Engineering student at RMIT University Vietnam · Ho Chi Minh City**
+**Information Technology student at RMIT University Vietnam · Ho Chi Minh City**
 
 _Building practical products with clean code, one project at a time._
 
@@ -21,7 +21,7 @@ _Building practical products with clean code, one project at a time._
 
 ## 🎓 Education
 
-**RMIT University Vietnam**: Bachelor of Software Engineering
+**RMIT University Vietnam**: Bachelor of Information Technology
 <!-- TODO: thêm thời gian học, GPA, chứng chỉ (IELTS...) nếu muốn -->
 
 ---
