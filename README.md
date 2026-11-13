@@ -41,11 +41,10 @@ A full-stack web platform built for the CAIEC competition, with Supabase auth an
 A web app for the RMIT Neo Culture Tech club: upload or record a meeting, transcribe it with Whisper and get a GPT summary with action items, speaker attribution and topic tags, with live progress over WebSockets and export to Markdown or PDF.
 <!-- TODO: mô tả phần bạn đóng góp -->
 
-### 📊 [CSV Insight](https://github.com/Mtammmm/asm3-s4143180-DangMinhTam)
+### 📊 [CSV Insight](https://github.com/Mtammmm/asm3-s4143180-DangMinhTam) · _High Distinction (80/100)_
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 A cloud CSV analytics app: a static frontend talks to a Flask API on AWS Lambda, uploads land in S3, a Dockerised worker on ECS processes the files, and Glue/Athena power the queries.
-<!-- TODO: thêm tên môn và điểm nếu muốn -->
 
 <!-- TODO (tuỳ chọn): bảng giải thưởng giống mẫu
 ## 🏆 Awards
