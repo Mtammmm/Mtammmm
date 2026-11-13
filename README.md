@@ -11,6 +11,7 @@ _Building practical products with clean code, one project at a time._
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A2m-%C4%91%E1%BA%B7ng-204330377/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/angtam.949521)
 [![GitHub](https://img.shields.io/badge/GitHub-Mtammmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mtammmm)
 
 </div>
