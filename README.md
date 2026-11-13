@@ -12,6 +12,7 @@ _Building practical products with clean code, one project at a time._
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A2m-%C4%91%E1%BA%B7ng-204330377/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/angtam.949521)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saxaxa_/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mtammmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mtammmm)
 
 </div>
