@@ -6,11 +6,11 @@
 
 _Building practical products with clean code, one project at a time._
 
-<!-- TODO: điền link thật rồi bỏ comment
+<!-- TODO: điền link portfolio và email thật rồi bỏ comment
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A2m-%C4%91%E1%BA%B7ng-204330377/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mtammmm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mtammmm)
 
 </div>
